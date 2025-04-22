@@ -1,4 +1,4 @@
-![logo](https://github.com/AIGautam/AIGautam/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+![logo](https://raw.githubusercontent.com/AIGautam/AIGautam/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner%20(3).png)
 
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 <h3 align="center">A passionate full-stack developer currently pursuing a B.Tech in AIML</h3>
