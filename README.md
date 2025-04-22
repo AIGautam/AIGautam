@@ -4,6 +4,10 @@
 <h3 align="center">🚀 A Full-Stack Developer | B.Tech in AIML | Code Lover & Coffee Addict ☕</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AIGautam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <a href="mailto:kumargautam.gk0101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gautam-kumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/gautam_vishwa_08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -68,7 +72,7 @@
 
 ### ✨ Fun Facts
 
-- 🧠 Solved 200+ DSA problems
+- 🧠 Solved 400+ DSA problems
 - 🎮 Gaming + Coding = Perfect Weekend
 - ☕ Code fuel = Coffee × 3 per day
 
